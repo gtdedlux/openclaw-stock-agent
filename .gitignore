@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data/log outputs
+data/*.csv
+reports/*.md
+*.log
+
+# Secrets / config
+*.key
+secrets.*
+.env.*
+
+# OpenClaw should not be committed
+.openclaw/
