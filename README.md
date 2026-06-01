@@ -49,7 +49,7 @@ premarket-stock-agent/
     update_results.py
     performance_summary.py
   data/
-    paper_trades.csv
+    paper_trades.csv    # generated locally, not committed
   reports/
     YYYY-MM-DD-premarket-watchlist.md
 ```
